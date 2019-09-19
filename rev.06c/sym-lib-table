@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "DLP-control-rescue")(type "Legacy")(uri "${KIPRJMOD}/DLP-control-rescue.lib")(options "")(descr ""))
+  (lib (name "DLP-control-04-rescue")(type "Legacy")(uri "${KIPRJMOD}/DLP-control-04-rescue.lib")(options "")(descr ""))
+  (lib (name "DLP-control-05-rescue")(type "Legacy")(uri "${KIPRJMOD}/DLP-control-05-rescue.lib")(options "")(descr ""))
+  (lib (name "SL1-control-05b-rescue")(type "Legacy")(uri "${KIPRJMOD}/SL1-control-05b-rescue.lib")(options "")(descr ""))
+  (lib (name "SL-controller-06-rescue")(type "Legacy")(uri "${KIPRJMOD}/SL-controller-06-rescue.lib")(options "")(descr ""))
+  (lib (name "SL-controller-06b-rescue")(type "Legacy")(uri "${KIPRJMOD}/SL-controller-06b-rescue.lib")(options "")(descr ""))
+  (lib (name "SL-controller-06c-rescue")(type "Legacy")(uri "${KIPRJMOD}/SL-controller-06c-rescue.lib")(options "")(descr ""))
+)
